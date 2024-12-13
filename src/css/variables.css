@@ -1,0 +1,42 @@
+:root {
+    /* General Text */
+    --text-primary: #333;
+    --text-secondary: #666;
+    --text-tertiary: #999;
+
+    /* Brand Text */
+    --text-brand: #007bff;
+    --text-brand-hover: #0062cc;
+    --text-brand-active: #00479e;
+
+    /* Status Text */
+    --text-success: #28a745;
+    --text-warning: #ffc107;
+    --text-danger: #dc3545;
+    --text-info: #17a2b8;
+
+    /* Special Cases Text */
+    --text-placeholder: #aaa;
+    --text-disabled: #ccc;
+    --text-link: #007bff;
+
+    /* General Background */
+    --bg-primary: #fff;
+    --bg-secondary: #f8f9fa;
+    --bg-tertiary: #e9ecef;
+    --bg-dark: #333;
+
+    /* Brand Background */
+    --bg-brand: #007bff;
+    --bg-brand-light: #e8f0fe;
+    
+    /* Status Background */
+    --bg-success: #d1e7dd;
+    --bg-warning: #fff3cd;
+    --bg-danger: #f8d7da;
+    --bg-info: #cfe2ff;
+
+    /* Special Cases */
+    --bg-modal: rgba(0, 0, 0, 0.5);
+    --bg-disabled: #eee;
+}
